@@ -1,14 +1,14 @@
-composer require annotations
-composer require twig
-composer require profiler
-composer require maker-bundle
-composer require form
-composer require validator
-composer require orm
-composer require asset
+<p>composer require annotations</p>
+<p>composer require twig</p>
+<p>composer require profiler</p>
+<p>composer require maker-bundle</p>
+<p>composer require form</p>
+<p>composer require validator</p>
+<p>composer require orm</p>
+<p>composer require asset</p>
 
-pour compiler le css & le js :
-node_modules/.bin/encore dev //permet de compiler le css & js
-node_modules/.bin/encore dev --watch //permet de compiler automatiquement le css & js
-node_modules/.bin/encore production //permet de versionner le css & js
-node_modules/.bin/encore dev-server //lance un server pour le css & js avec reload automatique
+<p>pour compiler le css & le js :</p>
+<p>node_modules/.bin/encore dev //permet de compiler le css & js</p>
+<p>node_modules/.bin/encore dev --watch //permet de compiler automatiquement le css & js</p>
+<p>node_modules/.bin/encore production //permet de versionner le css & js</p>
+<p>node_modules/.bin/encore dev-server //lance un server pour le css & js avec reload automatique</p>
