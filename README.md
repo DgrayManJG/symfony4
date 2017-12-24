@@ -1,3 +1,5 @@
+*** Les bundles présent ***
+*********************
 <p>composer require annotations</p>
 <p>composer require twig</p>
 <p>composer require profiler</p>
@@ -7,6 +9,19 @@
 <p>composer require orm</p>
 <p>composer require asset</p>
 
+<br/>
+<br/>
+
+*** vendor & node_module ***
+*********************
+<p>Composer update</p>
+<p>npm i</p>
+
+<br/>
+<br/>
+
+*** node_module ***
+*********************
 <p>pour compiler le css & le js :</p>
 <p>node_modules/.bin/encore dev //permet de compiler le css & js</p>
 <p>node_modules/.bin/encore dev --watch //permet de compiler automatiquement le css & js</p>
