@@ -1,4 +1,4 @@
-*** Les bundles présent ***
+*** Les bundles prÃ©sent ***
 *********************
 <p>composer require annotations</p>
 <p>composer require twig</p>
@@ -8,6 +8,7 @@
 <p>composer require validator</p>
 <p>composer require orm</p>
 <p>composer require asset</p>
+<p>composer require encore</p>
 
 <br/>
 <br/>
