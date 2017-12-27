@@ -16,6 +16,7 @@
 *** vendor & node_module ***
 *********************
 <p>Composer update</p>
+<p>npm i -D node-sass sass-loader</p>
 <p>npm i</p>
 
 <br/>
